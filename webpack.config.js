@@ -23,5 +23,8 @@ module.exports = {
                 }
             }
         ]
+    },
+    derServer: {
+        port: 8899
     }
 }
